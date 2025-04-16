@@ -1,7 +1,7 @@
-![image](https://github.com/user-attachments/assets/acb1e754-d911-4132-921f-f3a278c94dcf)
+![image](https://github.com/user-attachments/assets/2974ccc3-0242-4858-b6d6-6e143d96a75e)
 
  
- Arduino Pocket PC with OLED HACK_UPDT
+HACK_UPDT Arduino Pocket PC with OLED 
 ===============================
 
 This project turns an Arduino into a mini multifunctional pocket PC using a 0.96 inch SSD1306 OLED display. Inspired by VOLOS PROJECTS, this custom version features a normal calculator, a mini arcade game, stopwatch, calendar, phonebook, and a buzzer sound system — all operated with just three buttons and a potentiometer.
