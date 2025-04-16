@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/acb1e754-d911-4132-921f-f3a278c94dcf)
+
+ 
  Arduino Pocket PC with OLED HACK_UPDT
 ===============================
 
@@ -22,6 +25,7 @@ HARDWARE REQUIREMENTS
 - 1 Buzzer (connected to digital pin 9)
 - Breadboard or custom PCB
 
+![image](https://github.com/user-attachments/assets/e1cf1c99-66b7-4a5c-8aa3-553b1ed43d6c)
 
 Buttons:
 --------
